@@ -1,0 +1,35 @@
+C:
+cd Users
+cd s29013
+cd desktop
+git clone ...
+cd nazwaFolderu
+"git cpmmit -m"
+
+Zadanie 4
+Klasy: Person, Address, Studet, Profesor
+
+Atrybuty klasy Person
+
+Name (typ danych String- ciąg znaków)
+ 	  Surname (typ danych String- ciąg znaków)
+	  Age ( ty[ danych Int- liczba)
+
+Atrybuty klasy Address
+
+Street (typ danych String- ciąg znaków)
+ 	  City (typ danych String- ciąg znaków)
+	  State ( typ danych String- ciąg znaków)
+	  Postal code ( ty[ danych Int- liczba)
+	 Country ( typ danych String- ciąg znaków)
+
+Atrybuty klasy Profesor
+Salary (typ danych Double - dane liczbowe)
+
+Atrybuty klasy Student
+Student number:( typ danych Int- liczba)
+Average mark:(typ danych Double - dane liczbowe)
+
+Metody:
+Is Eligable To Enrol ( Boolen- true/false)
+Get Seminars Taken ( Boolen- true/false)
